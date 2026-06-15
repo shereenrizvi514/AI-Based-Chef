@@ -1,0 +1,5 @@
+{
+  "name": "ChefAI Full-Stack",
+  "description": "A professional culinary intelligence platform with a custom Express backend.",
+  "requestFramePermissions": ["microphone"]
+}
